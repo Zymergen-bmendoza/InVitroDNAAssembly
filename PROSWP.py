@@ -24,7 +24,7 @@ class AutoRefactor:
         self.import_csv_marker(workingdir)
 
         # Initiate the sgRNA generator class object for getting guide sequences
-        self.sgen = sgRNAGenerator("PROSWP", workingdir)
+        self.sgen = sgRNAGenerator("proswp", workingdir)
 
         # Now go through the clusters that have been imported:
         output_dict = dict()
@@ -37,7 +37,7 @@ class AutoRefactor:
 
     """Function opens the output stream to the file for building the factory order."""
     def output(self, out):
-        out_file_name = "SampleIO/myoutput.csv"
+        out_file_name = "myoutput.csv"
         f = open(out_file_name, 'w')
         for cluster in out:
             f.write(cluster)
@@ -74,14 +74,14 @@ class AutoRefactor:
 
         # And to import the promoter sequences:
         # Note: download sequences from LIMS and promoter strength as attribute later
-        y = open("SampleIO/LIMS_DNA_parts.csv")
+        y = open("LIMS_DNA_parts.csv")
         for line in y:
             prom = line[:-1].split(",")
             self.promoters[prom[0]] = prom[1]
         y.close()
 
     def import_clusters_fasta(self):
-        os.chdir(os.curdir + "/Refactoring_Clusters/")
+        os.chdir(os.curdir + "proswp/")
         for file in os.listdir():
             if file.endswith(".fa") or file.endswith(".fasta"):
                 cluster_seq = ""
@@ -132,4 +132,5 @@ class AutoRefactor:
             output_list.append(("hom_fwd", hom_fwd))
         return output_list
 
-A = AutoRefactor("/Users/bmendoza/Documents/Auto_Ref_Test/","PROSWPs")
+
+A = AutoRefactor(os.getcwd() + "/SampleIO/","PROSWPs")

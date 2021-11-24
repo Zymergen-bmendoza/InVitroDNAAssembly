@@ -1,0 +1,1398 @@
+LOCUS       ZGC_DDX39B_9           37204 bp    DNA     linear   UNK 06-MAY-2020
+DEFINITION  p12G7S17514 plate12_G7_S175_NODE_14_length_37204_cov_13.5742_12.
+ACCESSION   Z13005874577
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             complement(216..2576)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_1"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(2592..3545)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_2"
+                     /TIGRFAM="TIGR00593 TIGR00593 pola: DNA polymerase I"
+                     /PFAM="5_3_exonuc_N PF02739.14 '-3' exonuclease"
+                     /PFAM="N-terminal resolvase-like domain"
+                     /PFAM="5_3_exonuc PF01367.18 '-3' exonuclease"
+                     /PFAM="C-terminal SAM fold"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(2592..3545)
+                     /annotationName="TIGR00593 TIGR00593 pola: DNA polymerase
+                     I"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00593
+                     TIGR00593 pola: DNA polymerase I"
+     CDS             complement(3663..4307)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_3"
+                     /TIGRFAM="true"
+                     /PFAM="HNH_5 PF14279.4 HNH endonuclease"
+                     /PFAM="HNH PF01844.21 HNH endonuclease"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(3663..4307)
+                     /annotationName="HNH_5 PF14279.4 HNH endonuclease"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""HNH_5 PF14279.4
+                     HNH endonuclease"
+     CDS             complement(4553..5986)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_4"
+                     /TIGRFAM="true"
+                     /PFAM="PNTB PF02233.14 NAD(P) transhydrogenase beta
+                     subunit"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(4553..5986)
+                     /annotationName="PNTB PF02233.14 NAD(P) transhydrogenase
+                     beta subunit"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""PNTB PF02233.14
+                     NAD(P) transhydrogenase beta subunit"
+     CDS             complement(6002..6304)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_5"
+                     /TIGRFAM="TIGR00561 TIGR00561 pntA: NAD(P)(+)
+                     transhydrogenase (AB-specific)"
+                     /TIGRFAM="alpha subunit"
+                     /PFAM="PNTB_4TM PF12769.5 TM region of pyridine
+                     nucleotidetranshydrogenase"
+                     /PFAM="mitoch"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(6002..6304)
+                     /annotationName="TIGR00561 TIGR00561 pntA: NAD(P)(+)
+                     transhydrogenase (AB-specific)"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00561
+                     TIGR00561 pntA: NAD(P)(+) transhydrogenase (AB-specific)"
+     CDS             complement(6510..7634)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_6"
+                     /TIGRFAM="TIGR00561 TIGR00561 pntA: NAD(P)(+)
+                     transhydrogenase (AB-specific)"
+                     /TIGRFAM="alpha subunit"
+                     /TIGRFAM="TIGR00518 TIGR00518 alaDH: alanine
+                     dehydrogenase"
+                     /PFAM="AlaDh_PNT_C PF01262.19 Alanine dehydrogenase/PNT"
+                     /PFAM="C-terminal domain"
+                     /PFAM="AlaDh_PNT_N PF05222.13 Alanine dehydrogenase/PNT"
+                     /PFAM="N-terminal domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(6510..7634)
+                     /annotationName="TIGR00561 TIGR00561 pntA: NAD(P)(+)
+                     transhydrogenase (AB-specific)"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00561
+                     TIGR00561 pntA: NAD(P)(+) transhydrogenase (AB-specific)"
+     CDS             7902..8552
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_7"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             8549..8881
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_8"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             8878..9843
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_9"
+                     /TIGRFAM="true"
+                     /PFAM="Lip_A_acyltrans PF03279.11 Bacterial lipid A
+                     biosynthesis acyltransferase"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             8878..9843
+                     /annotationName="Lip_A_acyltrans PF03279.11 Bacterial
+                     lipid A biosynthesis acyltransferase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""Lip_A_acyltrans
+                     PF03279.11 Bacterial lipid A biosynthesis acyltransferase"
+     CDS             9806..10441
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_10"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             10491..13334
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_11"
+                     /TIGRFAM="TIGR03480 TIGR03480 HpnN: hopanoid biosynthesis
+                     associated RND transporter like protein HpnN"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             10491..13334
+                     /annotationName="TIGR03480 TIGR03480 HpnN: hopanoid
+                     biosynthesis associated RND transporter like protein HpnN"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR03480
+                     TIGR03480 HpnN: hopanoid biosynthesis associated RND
+                     transporter like protein HpnN"
+     CDS             13447..14817
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_12"
+                     /TIGRFAM="TIGR00614 TIGR00614 recQ_fam: ATP-dependent DNA
+                     helicase"
+                     /TIGRFAM="RecQ family"
+                     /TIGRFAM="TIGR01389 TIGR01389 recQ: ATP-dependent DNA
+                     helicase RecQ"
+                     /TIGRFAM="TIGR04121 TIGR04121 DEXH_lig_assoc: DEXH box
+                     helicase"
+                     /TIGRFAM="DNA ligase-associated"
+                     /TIGRFAM="TIGR01587 TIGR01587 cas3_core:
+                     CRISPR-associatedhelicase Cas3"
+                     /TIGRFAM="TIGR00643 TIGR00643 recG: ATP-dependent DNA
+                     helicase RecG"
+                     /PFAM="DEAD PF00270.27 DEAD/DEAH box helicase"
+                     /PFAM="Helicase_C PF00271.29 Helicase conserved
+                     C-terminaldomain"
+                     /PFAM="DbpA PF03880.13 DbpA RNA binding domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             13447..14817
+                     /annotationName="TIGR00614 TIGR00614 recQ_fam:
+                     ATP-dependent DNA helicase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00614
+                     TIGR00614 recQ_fam: ATP-dependent DNA helicase"
+     CDS             complement(14832..16088)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_13"
+                     /TIGRFAM="TIGR00932 TIGR00932 a37: transporter"
+                     /TIGRFAM="monovalent cation:proton antiporter-2 (CPA2)
+                     family"
+                     /PFAM="Na_H_Exchanger PF00999.19 Sodium/hydrogen
+                     exchangerfamily"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(14832..16088)
+                     /annotationName="TIGR00932 TIGR00932 a37: transporter"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00932
+                     TIGR00932 a37: transporter"
+     CDS             complement(16108..17721)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_14"
+                     /TIGRFAM="TIGR02032 TIGR02032 GG-red-SF: geranylgeranyl
+                     reductase family"
+                     /PFAM="Trp_halogenase PF04820.12 Tryptophan halogenase"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(16108..17721)
+                     /annotationName="TIGR02032 TIGR02032 GG-red-SF:
+                     geranylgeranyl reductase family"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02032
+                     TIGR02032 GG-red-SF: geranylgeranyl reductase family"
+     CDS             complement(17718..18551)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_15"
+                     /TIGRFAM="true"
+                     /PFAM="Ketoacyl-synt_2 PF13723.4 Beta-ketoacyl synthase"
+                     /PFAM="N-terminal domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(17718..18551)
+                     /annotationName="Ketoacyl-synt_2 PF13723.4 Beta-ketoacyl
+                     synthase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""Ketoacyl-synt_2
+                     PF13723.4 Beta-ketoacyl synthase"
+     CDS             complement(18548..19738)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_16"
+                     /TIGRFAM="TIGR03150 TIGR03150 fabF:
+                     beta-ketoacyl-acyl-carrier-protein synthase II"
+                     /TIGRFAM="TIGR02813 TIGR02813 omega_3_PfaA:
+                     polyketide-type polyunsaturated fatty acid synthase PfaA"
+                     /PFAM="Ketoacyl-synt_C PF02801.20 Beta-ketoacyl synthase"
+                     /PFAM="C-terminal domain"
+                     /PFAM="ketoacyl-synt PF00109.24 Beta-ketoacyl synthase"
+                     /PFAM="N-terminal domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(18548..19738)
+                     /annotationName="TIGR03150 TIGR03150 fabF:
+                     beta-ketoacyl-acyl-carrier-protein synthase II"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR03150
+                     TIGR03150 fabF: beta-ketoacyl-acyl-carrier-protein
+                     synthase II"
+     CDS             complement(19828..20109)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_17"
+                     /TIGRFAM="true"
+                     /PFAM="PP-binding PF00550.23 Phosphopantetheine
+                     attachmentsite"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(19828..20109)
+                     /annotationName="PP-binding PF00550.23 Phosphopantetheine
+                     attachment site"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""PP-binding
+                     PF00550.23 Phosphopantetheine attachment site"
+     CDS             20306..21328
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_18"
+                     /TIGRFAM="TIGR04444 TIGR04444 chori_FkbO_Hyg5:
+                     chorismatase"
+                     /TIGRFAM="FkbO/Hyg5 family"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             20306..21328
+                     /annotationName="TIGR04444 TIGR04444 chori_FkbO_Hyg5:
+                     chorismatase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR04444
+                     TIGR04444 chori_FkbO_Hyg5: chorismatase"
+     CDS             complement(21314..22675)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_19"
+                     /TIGRFAM="TIGR02372 TIGR02372 _coum_CoA_lig:
+                     4-coumarate--CoA ligase"
+                     /TIGRFAM="TIGR01733 TIGR01733 AA-adenyl-dom: amino acid
+                     adenylation domain"
+                     /PFAM="AMP-binding PF00501.26 AMP-binding enzyme"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(21314..22675)
+                     /annotationName="TIGR02372 TIGR02372 _coum_CoA_lig:
+                     4-coumarate--CoA ligase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02372
+                     TIGR02372 _coum_CoA_lig: 4-coumarate--CoA ligase"
+     CDS             complement(22702..23931)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_20"
+                     /TIGRFAM="TIGR03150 TIGR03150 fabF:
+                     beta-ketoacyl-acyl-carrier-protein synthase II"
+                     /TIGRFAM="TIGR02813 TIGR02813 omega_3_PfaA:
+                     polyketide-type polyunsaturated fatty acid synthase PfaA"
+                     /PFAM="ketoacyl-synt PF00109.24 Beta-ketoacyl synthase"
+                     /PFAM="N-terminal domain"
+                     /PFAM="Ketoacyl-synt_C PF02801.20 Beta-ketoacyl synthase"
+                     /PFAM="C-terminal domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(22702..23931)
+                     /annotationName="TIGR03150 TIGR03150 fabF:
+                     beta-ketoacyl-acyl-carrier-protein synthase II"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR03150
+                     TIGR03150 fabF: beta-ketoacyl-acyl-carrier-protein
+                     synthase II"
+     CDS             complement(24053..24781)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_21"
+                     /TIGRFAM="TIGR01831 TIGR01831 fabG_rel: putative
+                     3-oxoacyl-(acyl-carrier-protein) reductase"
+                     /TIGRFAM="TIGR01830 TIGR01830 oxo_ACP_reduc:
+                     3-oxoacyl-[acyl-carrier-protein] reductase"
+                     /TIGRFAM="TIGR01829 TIGR01829 AcAcCoA_reduct:
+                     acetoacetyl-CoA reductase"
+                     /TIGRFAM="TIGR01832 TIGR01832 kduD: 2-deoxy-D-gluconate
+                     3-dehydrogenase"
+                     /TIGRFAM="TIGR01963 TIGR01963 PHB_DH: 3-hydroxybutyrate
+                     dehydrogenase"
+                     /TIGRFAM="TIGR02415 TIGR02415 BDH: acetoin reductases"
+                     /TIGRFAM="TIGR03971 TIGR03971 SDR_subfam_1: SDR family
+                     mycofactocin-dependent oxidoreductase"
+                     /TIGRFAM="TIGR03206 TIGR03206 benzo_BadH:
+                     2-hydroxycyclohexanecarboxyl-CoA dehydrogenase"
+                     /TIGRFAM="TIGR04316 TIGR04316 dhbA_paeA: 2"
+                     /TIGRFAM="3-dihydro-2"
+                     /TIGRFAM="3-dihydroxybenzoate dehydrogenase"
+                     /TIGRFAM="TIGR04504 TIGR04504 SDR_subfam_2: SDR family
+                     mycofactocin-dependent oxidoreductase"
+                     /TIGRFAM="TIGR02632 TIGR02632 RhaD_aldol-ADH:
+                     rhamnulose-1-phosphate aldolase/alcohol dehydrogenase"
+                     /TIGRFAM="TIGR02685 TIGR02685 pter_reduc_Leis: pteridine
+                     reductase"
+                     /TIGRFAM="TIGR03325 TIGR03325 BphB_TodD: cis-2"
+                     /TIGRFAM="3-dihydrobiphenyl-2"
+                     /TIGRFAM="3-diol dehydrogenase"
+                     /PFAM="adh_short_C2 PF13561.4 Enoyl-(Acyl carrier
+                     protein)reductase"
+                     /PFAM="adh_short PF00106.23 short chain dehydrogenase"
+                     /PFAM="KR PF08659.8 KR domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(24053..24781)
+                     /annotationName="TIGR01831 TIGR01831 fabG_rel: putative
+                     3-oxoacyl-(acyl-carrier-protein) reductase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR01831
+                     TIGR01831 fabG_rel: putative
+                     3-oxoacyl-(acyl-carrier-protein) reductase"
+     CDS             complement(24946..26181)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_22"
+                     /TIGRFAM="TIGR02032 TIGR02032 GG-red-SF: geranylgeranyl
+                     reductase family"
+                     /PFAM="Trp_halogenase PF04820.12 Tryptophan halogenase"
+                     /PFAM="FAD_binding_3 PF01494.17 FAD binding domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(24946..26181)
+                     /annotationName="TIGR02032 TIGR02032 GG-red-SF:
+                     geranylgeranyl reductase family"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02032
+                     TIGR02032 GG-red-SF: geranylgeranyl reductase family"
+     CDS             complement(26191..27018)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_23"
+                     /TIGRFAM="TIGR04182 TIGR04182 glyco_TIGR04182:
+                     glycosyltransferase"
+                     /TIGRFAM="TIGR04182 family"
+                     /PFAM="Glycos_transf_2 PF00535.24 Glycosyl transferase
+                     family 2"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(26191..27018)
+                     /annotationName="TIGR04182 TIGR04182 glyco_TIGR04182:
+                     glycosyltransferase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR04182
+                     TIGR04182 glyco_TIGR04182: glycosyltransferase"
+     CDS             complement(27190..27492)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_24"
+                     /TIGRFAM="true"
+                     /PFAM="PP-binding PF00550.23 Phosphopantetheine
+                     attachmentsite"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(27190..27492)
+                     /annotationName="PP-binding PF00550.23 Phosphopantetheine
+                     attachment site"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""PP-binding
+                     PF00550.23 Phosphopantetheine attachment site"
+     CDS             complement(27655..28461)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_25"
+                     /TIGRFAM="TIGR00530 TIGR00530 AGP_acyltrn:
+                     1-acylglycerol-3-phosphate O-acyltransferases"
+                     /PFAM="Acyltransferase PF01553.19 Acyltransferase"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(27655..28461)
+                     /annotationName="TIGR00530 TIGR00530 AGP_acyltrn:
+                     1-acylglycerol-3-phosphate O-acyltransferases"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00530
+                     TIGR00530 AGP_acyltrn: 1-acylglycerol-3-phosphate
+                     O-acyltransferases"
+     CDS             complement(28676..29134)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_26"
+                     /TIGRFAM="true"
+                     /PFAM="DUF3106 PF11304.6 Protein of unknown function
+                     (DUF3106)"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(28676..29134)
+                     /annotationName="DUF3106 PF11304.6 Protein of unknown
+                     function (DUF3106)"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""DUF3106 PF11304.6
+                     Protein of unknown function (DUF3106)"
+     CDS             complement(29142..29393)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_27"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(29390..29722)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_28"
+                     /TIGRFAM="true"
+                     /PFAM="true"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(29773..30387)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_29"
+                     /TIGRFAM="TIGR02937 TIGR02937 sigma70-ECF: RNA polymerase
+                     sigma factor"
+                     /TIGRFAM="sigma-70 family"
+                     /TIGRFAM="TIGR02983 TIGR02983 SigE-fam_strep: RNA
+                     polymerase sigma-70 factor"
+                     /TIGRFAM="sigma-E family"
+                     /TIGRFAM="TIGR02985 TIGR02985 Sig70_bacteroi1: RNA
+                     polymerase sigma-70 factor"
+                     /TIGRFAM="Bacteroides expansion family 1"
+                     /TIGRFAM="TIGR02984 TIGR02984 Sig-70_plancto1: RNA
+                     polymerase sigma-70 factor"
+                     /TIGRFAM="Planctomycetaceae-specific subfamily 1"
+                     /TIGRFAM="TIGR02954 TIGR02954 Sig70_famx3: RNA polymerase
+                     sigma-70 factor"
+                     /TIGRFAM="TIGR02954 family"
+                     /PFAM="Sigma70_r4_2 PF08281.10 Sigma-70"
+                     /PFAM="region 4"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(29773..30387)
+                     /annotationName="TIGR02937 TIGR02937 sigma70-ECF: RNA
+                     polymerase sigma factor"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02937
+                     TIGR02937 sigma70-ECF: RNA polymerase sigma factor"
+     CDS             30590..32785
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_30"
+                     /TIGRFAM="TIGR00595 TIGR00595 priA: primosomal protein N'"
+                     /TIGRFAM="TIGR00643 TIGR00643 recG: ATP-dependent DNA
+                     helicase RecG"
+                     /TIGRFAM="TIGR00580 TIGR00580 mfd: transcription-repair
+                     coupling factor"
+                     /PFAM="DEAD PF00270.27 DEAD/DEAH box helicase"
+                     /PFAM="Helicase_C PF00271.29 Helicase conserved
+                     C-terminaldomain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             30590..32785
+                     /annotationName="TIGR00595 TIGR00595 priA: primosomal
+                     protein N'"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00595
+                     TIGR00595 priA: primosomal protein N'"
+     CDS             32899..34614
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_31"
+                     /TIGRFAM="TIGR00456 TIGR00456 argS: arginine--tRNA ligase"
+                     /PFAM="DALR_1 PF05746.13 DALR anticodon binding domain"
+                     /PFAM="Arg_tRNA_synt_N PF03485.14 Arginyl tRNA synthetase
+                     N terminal domain"
+                     /PFAM="tRNA-synt_1d PF00750.17 tRNA synthetases class I
+                     (R)"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             32899..34614
+                     /annotationName="TIGR00456 TIGR00456 argS: arginine--tRNA
+                     ligase"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR00456
+                     TIGR00456 argS: arginine--tRNA ligase"
+     CDS             34711..35268
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_32"
+                     /TIGRFAM="TIGR02223 TIGR02223 ftsN: cell division protein
+                     FtsN"
+                     /PFAM="SPOR PF05036.11 Sporulation related domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             34711..35268
+                     /annotationName="TIGR02223 TIGR02223 ftsN: cell division
+                     protein FtsN"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02223
+                     TIGR02223 ftsN: cell division protein FtsN"
+     CDS             complement(35343..36707)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_33"
+                     /TIGRFAM="TIGR01818 TIGR01818 ntrC: nitrogen regulation
+                     protein NR(I)"
+                     /TIGRFAM="TIGR02915 TIGR02915 PEP_resp_reg: PEP-CTERM-box
+                     response regulator transcription factor"
+                     /TIGRFAM="TIGR02974 TIGR02974 phageshock_pspF: psp operon
+                     transcriptional activator"
+                     /TIGRFAM="TIGR01817 TIGR01817 nifA: Nif-specific
+                     regulatory protein"
+                     /TIGRFAM="TIGR02329 TIGR02329 propionate_PrpR: propionate
+                     catabolism operon regulatory protein PrpR"
+                     /TIGRFAM="TIGR02154 TIGR02154 PhoB: phosphate regulon
+                     transcriptional regulatory protein PhoB"
+                     /TIGRFAM="TIGR01387 TIGR01387 cztR_silR_copR: heavy metal
+                     response regulator"
+                     /TIGRFAM="TIGR02956 TIGR02956 TMAO_torS: TMAO reductase
+                     sytem sensor TorS"
+                     /TIGRFAM="TIGR02875 TIGR02875 spore_0_A: sporulation
+                     transcription factor Spo0A"
+                     /TIGRFAM="TIGR03787 TIGR03787 marine_sort_RR:
+                     proteobacterial dedicated sortase system response
+                     regulator"
+                     /PFAM="Sigma54_activat PF00158.24 Sigma-54 interaction
+                     domain"
+                     /PFAM="Response_reg PF00072.22 Response regulator
+                     receiverdomain"
+                     /PFAM="Sigma54_activ_2 PF14532.4 Sigma-54 interaction
+                     domain"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(35343..36707)
+                     /annotationName="TIGR01818 TIGR01818 ntrC: nitrogen
+                     regulation protein NR(I)"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR01818
+                     TIGR01818 ntrC: nitrogen regulation protein NR(I)"
+     CDS             complement(36803..37204)
+                     /phase=0
+                     /taxonomy="cellular organisms/ Bacteria/ Proteobacteria/
+                     Gammaproteobacteria/ Nevskiales/ Sinobacteraceae/
+                     Steroidobacter/ Steroidobacter denitrificans/"
+                     /id="plate12_G7_S175_NODE_14_length_37204_cov_13.5742_34"
+                     /TIGRFAM="TIGR02938 TIGR02938 nifL_nitrog: nitrogen
+                     fixation negative regulator NifL"
+                     /TIGRFAM="TIGR02916 TIGR02916 PEP_his_kin: putative
+                     PEP-CTERM system histidine kinase"
+                     /TIGRFAM="TIGR02956 TIGR02956 TMAO_torS: TMAO reductase
+                     sytem sensor TorS"
+                     /TIGRFAM="TIGR02966 TIGR02966 phoR_proteo: phosphate
+                     regulon sensor kinase PhoR"
+                     /TIGRFAM="TIGR01386 TIGR01386 cztS_silS_copS: heavy metal
+                     sensor kinase"
+                     /PFAM="HATPase_c PF02518.24 Histidine kinase-"
+                     /PFAM="DNA gyrase B-"
+                     /PFAM="and HSP90-like ATPase"
+                     /annotationName="unnamed annot"
+                     /description
+                     /creatorId=16381
+                     /createTimestamp=1588728332163
+                     /label="unnamed annot"
+     CDS             complement(36803..37204)
+                     /annotationName="TIGR02938 TIGR02938 nifL_nitrog:
+                     nitrogenfixation negative regulator NifL"
+                     /description="/creatorId=16381
+                     /createTimestamp=1588728332270 /label=""TIGR02938
+                     TIGR02938 nifL_nitrog: nitrogen fixation negative
+                     regulator NifL"
+ORIGIN      
+        1 atacgactca ctatagggag aggatcccag ccgtgaacgc actcccagcg agagtaagtg
+       61 cgagaactgc gagcagacct gtccaatgaa ttttcatgaa gcacctccgt gtggcccgca
+      121 gcatgcctcg gccgtcgatg acggctggtt gcagaatctc gtgtgtttgg cgagaaatgc
+      181 gtgcgaccgt gcacgccgcg aatcggtccg gccgctcaac tctcgatcca gagcactccg
+      241 aattcgcgga catcgatgtc ggacttgcgg gcccgcacaa gcgtgcgttc gatgatcgca
+      301 gtggctggat cgaatgtggc ctgaagtctc gttgtttcct gcgtcaactc ggcgtcgagc
+      361 tcggcatagc gttgctgcag cacttccagg ctttcttcgg cgcgcccgac ctcctggcgc
+      421 tctcggccta tgcggccggc attgcgcgca gccgagccaa tgcgtcccgc attgccgacg
+      481 gatatcgctt tacggcctag caacgcaccc agaatcgagg tgcctaccga gatggcggtc
+      541 tgcagcttct gttgcgagag ctgcgagcgt tcgcgctcga tgcgttcctg agcgcgccgc
+      601 tgctgatcct gcagcgacat cagccgtggt gcgtacttgc ggcgtagcgt ttccaccgcg
+      661 gcatcgcgcc tctcgcgcaa cgcaagagcc acatgcgcgc ggaactcgct ttccgatccg
+      721 ccgggtgtcg ccactgcacc cactgccggg caacgcaaca gctcgagcga cgccgtttcg
+      781 tatgcatggg cagcgagctg tttggcccac agcgaataat tctgcaagcg cagcattgct
+      841 gcaggaggct cgacatgacg tgcttgcggc accgtcgtgc tcaacctcgg actgagatcg
+      901 gcactgatct cggcagaggg ccagtcgggg ctcgttccac cgtcccgcat gggcgcgaca
+      961 tacgcgcgtg tctcccacac atccaagcct gccgtcttat cgaggaaatg caatcgcacc
+     1021 gtgcccagca ctcgtggcac gaatgtcgct gggccatccg cttgcgtcga tcgcaaatag
+     1081 tggacgggga tacccgctgg cagcaccggc tgctgtgtgg cagctgacat cgcctcggct
+     1141 cgggatgcga tgcctgtgtc cgctgcgact tctcggaccg agagtcgtgc gatctcggga
+     1201 agtgtcagcg gaccacgcag ataggacaac gcccagcggg ttcgcagcaa cagcggtgcg
+     1261 tcgtcgtgca cgttgcgcat caggaacact cgattgcgca ggttcgccag caaggattcc
+     1321 aactgcgctt tatccagacc gtcgccggcg gcgccgagca gcccatcgat gacgcgggct
+     1381 ttgtcgcgtt cggtctgcaa gcgcccgatg aaccaggtgc cggcattcga cagtcctttg
+     1441 tagtccagat ccaccggatt ctgcgtcgcc agcaccacac ccaggccgaa cgcacgtgcc
+     1501 tgtttcatca atgtgagcag cggcaacttc gagggcggca tggcgcttgg cgggaaatag
+     1561 ccgaagatct catccatgta gagcagcgcg cgcagactcg aagtgcccga ttgccggcgc
+     1621 atccatgcca ccacttcacc cagcagcaag gtcacgacga acatgcgctc ggcatcgttg
+     1681 agatgcgcga tggacacgat ggcgatgcgg ggcttgccct tatcggtgaa gagcaagcgc
+     1741 tgcacatcca gtgcttcgcc ttgcgtccag gcggagaaac cgggcgctgc aagcaggttg
+     1801 ttcagcatca ttgcgagccg caggcgctct ttcgccggat agaaagtctc caggtcgagc
+     1861 acgccgattt tgtccaccgg aggcttctgt atgccctgga tgagtcccgg cagatccaga
+     1921 tcgcggtcgt ggttccacgc atgctcgatc agcgtggaca gaagaatgtg ctcgcggctc
+     1981 tgcagcggct cggcgtcgat ccccaccaat ccaagcagcc ctgcgaccgt cgcaccgatg
+     2041 cgctcgcgca atgcggctgc atccgcgcgc aactccgcgg ctggagcagc aaaagattgc
+     2101 agtatcgaca gcgggcgccc ggcagcgctt ccgggcgtgt agatgaccag atcgctggcc
+     2161 gccttcaatc tgcgaatgcg ttcgccatcc tgttgccagt cggccaagcc cttgcgccag
+     2221 gtttcggcgg tggcctgcgc cagcgcctcg cgcgtcatgc ctttgcgggc ggcctcgccc
+     2281 tcatccaccc aaggcgcaaa atcagctgcc tgcagttcgg ggaaggtgag cagcagattg
+     2341 ccgaggtcgc ccttgggatc gatggcgata gccggcacgc cgtcgatcgc ggcttcctcc
+     2401 aacagggaca gacacaagcc ggttttgccg ctgccggtca tgccgacgca caccgcatgc
+     2461 gtggtgagat cgcgcgagtc gtacaggacc ggattctcgc ggtcctgtcc tgtgtccgga
+     2521 tcgagctcac ggcccagata gaacgagccc aacgcttcgt aagccggtaa cgtcacgccg
+     2581 ttctcctcgc gtcagccttg ctgaatgcgc tcggcctggt tgcgcaacaa tcggccaaag
+     2641 ccgaccgaat catagagatg attgagagcg cgcagattcg gcggtcggcg gcgcagatcg
+     2701 tccaattcga cttgcattgg cgcatcgcac gcaatcaggg tcagctgtcg cgccagaaat
+     2761 gccgcttcgc gatgatcgcg caactgactc acgacgaatc ctgcattgcg cagcttcatt
+     2821 ctcaagacac cgtcgagatt gtcgtacagc tgcgccagcg attcgaaatg gctgaacaga
+     2881 aatgacgcgg tcttgcggcc gacgcccggc acgccgcgga tgttgtccac ggaatcgccg
+     2941 gtgacggcga gaaagcacgc catgcgctcg ggcagcacac cgaagcgctc ggcaatgtca
+     3001 tcgtagccat agcgctcatc gccgatgtag tcccaatact catcgccggg acgaaccagc
+     3061 tgcgcgagat ccttatcgcg cgtgaccagc accactcgtt tgccggcgac acgcatgcgc
+     3121 accgcgagcg taccgagtag atcgtcggct tcgtattcat cgctgatgaa actgctgatg
+     3181 cccaatgcct cgcacagacg ctgacacaaa agaaactgcc gcttgaggtc ctcgggcgcg
+     3241 ggatcgcggt gcgccttgta ggcaggatag agccgattgc ggaacgacgt gaccaggctg
+     3301 ccatcgaatg ccacggcgat gtgctccggc cgcacctgct cgatcaagtc tccgaggaag
+     3361 cgcgcgaagc catgcagcgc gttgacggga ttgccgtccg cgtcggtcaa cgccatgggc
+     3421 accgagtggt acgcgcgaaa gacgaagatg gaggcgtcga tgaggtgaag agcgcgcgcg
+     3481 gcgtgccgcg cgggctgcgc aggctgtggg ctgtaggctg tgggctgtag gttggaaaaa
+     3541 gccaagatag agagttccga gaaacctgcc aagcgtagct gccggacggc gcgccgatcc
+     3601 gaccccagcc taccgcctac agtctacagc ctacagcctc agctcgcgcg caagggcgcg
+     3661 agctattgca tctgcttcag ccgcgcatgc agcggactgg atcgcgggaa atgagccagc
+     3721 agatactcca tctggtcggc gagcacgcgg cggcctttca gatagatgta ttcggcgtag
+     3781 gtgggcgtga atggcaccgc gagcagctgc aggccggctt gctcgggcgt tttcgaagcc
+     3841 ttgagattgt tgcagcggcg acatgccgtg accacattgg tccatacgtc gcgaccaccc
+     3901 tggctcaagg gccggatgtg atcgcgcgag agctgattcg acggaaaacg gatgccgcag
+     3961 tacaggcaca aatgcgcatc gcgtttgaac agggtttgat tgttgagcgg cggaatgtag
+     4021 tcgccgcgca gattgccggg attatgcgtg tggccgatgg tcgcgatgat ggagttgacc
+     4081 tccaccacgg tctgcagacc cgagcgggcg ttggtgccgc cgtacagccg atacaatcgc
+     4141 atgccgcagg cgtaagccac ttgctcagtg tgataaagcc gcaccgcatc ccggtagtcg
+     4201 atccactcca ggggcattcc tgagatatcc gttcgcagga tctcttgggt caggttgtac
+     4261 gggtactgca cgacttttgc gctacggcgg acgcgggacg gaatcactct ttcgcagaaa
+     4321 ctcccaataa gataagcgag gccgatgggt ttttacaacg gcgggtgaaa aggggcgcct
+     4381 gggcggctgg gctctgggct gctggccaga gtgcggaaaa gagacaacgc gcgtggttgc
+     4441 gtccgtcgcc tcctgaactc tggccagcag cctgctgcac atggagtgcg gatggcgccc
+     4501 agtgtcggat gcacgagagc ggccagagcc cagctgcccg catgctcctc cctcagtgcc
+     4561 ctccctccaa cgacttcacg gcctggatca tggcgaccat gaccttctgg gcatcgccgt
+     4621 acacgaggtt ggtgttatcg gcgaagaaca gttcgttttc cacgcctgaa tagcctttcc
+     4681 cctggccgcg tttgatcacg tagacctgct tggcttgatc gacgttgagg atgggcatgc
+     4741 cgtagatcgg gctgctcttg ttggtgcggg cggcaggatt caccgtgtcg ttggcgccaa
+     4801 tgacgatggc cacgtcggct tccttgaatt cgccgttgat gtcttcgagg tcgtagatca
+     4861 tgtcgtaagg cacgccggcc tccgccagca gtacattcat gtgtccaggc atgcggcctg
+     4921 ccaccgggtg aatggcgaac ttcacctcca cgcccgattc caccagcatt ttcacgaatt
+     4981 cgtagagctt gtgctgcgcc tgagccacgg ccagaccgta gcccggcgca ataatgacct
+     5041 tcgaggcata gcgcatgttg accgccgcat cgcccgcttc ggccggtttc tgactgcctt
+     5101 tgatctcgcc ttgctgatcg ccgccgccgg cgccgaagtt gctgaaaatg acattggaga
+     5161 cgctgcggtt catggccttg gccatcagca gggtgagcag cgtgccggct gagcccacca
+     5221 ccatgccggc aatcatcagc gccgggttct gcagcacata gccctcgaac cctacggcca
+     5281 ggccggtgaa ggcgttgtac agtgaaatca ctaccggcat gtccgcgccg ccgatgggca
+     5341 tggtcatgag cacgccgaaa atcagtgcgc cggcgaaaaa cgcggcgatc acacccgggt
+     5401 gcgcatggcc gtgcgcggcg aacacgatcc acaatcctac cgccagggtg gccaggaaaa
+     5461 tggcgccgtt gaagacctgc tgtcctttca tgcgccaggt gccttcgatg cggccatcga
+     5521 gcttggccca ggcgatcagc gaccccgaca gggaaatggc tccgatcaac gcacccacga
+     5581 tggtgaccac caatggaatg gtgctgtgga cagcgccggt gcgcagcaat tccactgccg
+     5641 cgatcgccgc ggcggcgccg ccgcccatgc cgttgtagag cgccaccatt tgcggcatgg
+     5701 ccgtcatcgc cactcgtttg ccgctccacc aggcccagcc cgtgccgatg ctgagcgcga
+     5761 ccgctgccag tattacgttg gtgtgcagat gcggttgcgc accctggttg acgccgaaga
+     5821 aatacaagaa gctggcgagc gtcgccacca gcatgcccac gcccgccacc acgatgcccg
+     5881 agcgcgccgt caccggcgag gacatgcgct tcaggccata gatgaacagg aacgccgcgg
+     5941 ccagatagct cgcgtcgatg atgacttggg gattcagcga gttcatgcgg ggccttgtgc
+     6001 tttatttccg gtcgctgggc ttgaacattt ccagcatccg ctcggtcacg acgtagccgc
+     6061 ccgcggcatt gccggcgccc agcagcacgc cgaagaagcc gatgacctgt tcgaccgtcg
+     6121 aggttgcgtt cagcagcgca tacatggcgc cgaccaccac gatgccatgg acgaaattgg
+     6181 agcccgacat cagcggcgta tgcaggatgg ccggcacgcg accgatgatc tcgtagccgg
+     6241 tgaaagccgc gagcatgaag atgtagaggg cgacgaagcc ggtcaatgta acggtcagat
+     6301 ccatggatcg agcacctcgt tcgagaaatc agaatgcagc cggatactgg gctgctgggt
+     6361 cctggccgct ctcgtgcatc ccgcactgcg cgccattcgc acatccatgt gcagcaggct
+     6421 gccggccaga agcggaagga gccgcaatcc gatcgtgcag ttcctctctg gccagcagtc
+     6481 cagcgcccag cagcccaaca tccctccctt cacccttcca ccgccttctt cgccgcctcg
+     6541 tttcggatct cgcccgcatg cgtcagcacg gtcttggcga tgatctcgtc ctgccagtcc
+     6601 agctggatgg ccttgtcctt gatgaacagc tcgagcagat tgaattgatt cttggcgtac
+     6661 agctcgctgg catgctcgcc gagcaggctc ggcacgttca gcggcccgac gatggtgacc
+     6721 tgacccacct gcaccgtctc gccgggacgc gtgcactcgc agttgccgcc gccttcagca
+     6781 gcgaggtcga cgatcacgct gccggctttc atgccctcga cctgggattt gctgatcagc
+     6841 ttgggcgaag gacggccggg gatggcggcc gtggtgatga tgatgtcggc ggactgaatg
+     6901 tgcttggtga ccacggcaga gatcttgtct ttctcctctt gcgtcagctc gcgcgcataa
+     6961 ccgccggcgc cacgcgcatc cacgcccgtg tcgacgaact tcgcgccgag cgactcggcc
+     7021 tgctctttgg tctccggccg tacgtcgtaa ccttcggtca tcgcccccag ccgtcgcgct
+     7081 gtggccaagg cctgcaggcc ggccactccc aggcccatca ccaatgtctt ggccggacgg
+     7141 atcgagccga cggcagtggt catcatgggc agaatgcggg ccaggttggt ggcgccgagc
+     7201 agcgccgcgt aatagcccgc aagcgcagcc tgactggaga gcgcatccat ggcctgagcg
+     7261 cgggtgatac gcggcaccag ctccatggcg aaacaggtga tcttgcgatc ccgcagcagg
+     7321 cgcgtgagct cgacttcttt gtgcgcatag atgaaggaca ccaggatcgc tcccggcttc
+     7381 attgcgttga cgataccggc atcgggcggc tgtaccgcca gcacgatatc ggcatcgctg
+     7441 acgaggtcga ggggacttac gctgcaggac acgctcttga aggcgctgtc ggtgagcttg
+     7501 accgcgtcgc ccgcgccgct ctgcatgaga atctccgcgc ccaatttgct gagcttgtcg
+     7561 gccacgctcg gcaccatggc gacacgacgc tcattggcgc gcgtctcttt gagcacagca
+     7621 atcttcaccg gcatgaacat ccccaggcat tggcctacac ggtcacggcc ggttcctcgc
+     7681 tggcggcgga atcggcccta tacttcgaag tccgcaaatt tcgctcaagc cgacgggcga
+     7741 tgagagaatg actggacaga atcggcgttc gaattgtttg ccacatccaa catagcgaaa
+     7801 gatgcgacac gcgcctagcc cgcagacgaa attttcaaca tccagtcgtg acttccgaac
+     7861 ttcgttcccg cctgtctctg tacctgacga catcgtgcgc cgtggcgtat gcactggtgg
+     7921 cgcatctcgc catcgcccgt gccagcattc cgctgatggt tgtctcgctg gcgctgctgg
+     7981 caggcaccag cctgcttccg cccctgctgc acggacgcaa gggtgcttgg ttcgcaatcc
+     8041 cgccgacgct gctgctgtgc tggctgctga gcaaagcgca gaccccgatc ctgctgttgt
+     8101 atctgccgcc gatgctgggc acgctgttca tggcctgggt gttcggacac acgctggcgg
+     8161 caggacgtac tccgctgatt gcgcagatcg tcaagctcat gcatccgccg cacatccagc
+     8221 ccgatccggc ggtctgggtc tatgcccgtg ccctgaccta tgcgtggatg atgctgttcc
+     8281 tggcactcac cgccgtggat ttcgcgctcg cgctgttggt cgcgccggac ggcctgctgg
+     8341 aactggccgg gctgtctgca ccgttcacca tcgaaccgga gagctggtcg ctgttcgcca
+     8401 acgtgatcca gtacgtactg gtcggggtat tcttcatcat cgagtatttc tatcgggcac
+     8461 ggcgttttcc ggatcagcca tacagcagta tcttcgactt cctccggcgc gccatcgccg
+     8521 cgagcccgaa gctgttgagt ggggacaaat gacctcgggc gccgttgcat ctgccatcac
+     8581 acatcgggca gcgctgtgtg ttgcggatgc gcacccgtcg ctgccagggc attttccggg
+     8641 gcgtcccgtg gttccgggtg tggtgctgct cgatgaagtg ttggcgctgg ccgaatcgtg
+     8701 gctgcagcgc ccgctctcgg tgacttcgtt gctgcaagcc aagttcagca cgccgctcct
+     8761 gccgcagcag caggccgagg tggagttgac actacgcgat gctgagttgc gtttttcggt
+     8821 gcggcgcgac accgacctcg ttgcgcaagg agtcttcaag ctgggtgcgg aggctgcttg
+     8881 aaacagcagt ggatcgaacg tcccgaaggc ggcagcgtct tcgccctgaa gttgttgttg
+     8941 cacttcgccc tgctgtgcgg ccgtacagcg gcgcgggccg tgctttatcc gatcaccttg
+     9001 tactatctgt tgcggcgtgg gccggagcgg cgcgcctcgc gcagctatct gcaacgtctg
+     9061 ctcggtgaga aggtcacgct gctgcatgtg gcgcggcacg tctacagttt cgcagcagtt
+     9121 accctggatc gtgccttcct gctcgccgag cgcttcaaac gtttcgatat tcgtgtgcat
+     9181 ggcatcgagg agctgcgcaa agcctgggac gagcagcgcg gtgtgctggt cttcggcgca
+     9241 cacgtcggca gcttcgatgc gttgcgggtc ctggcgcagc gccgcagcga cctgaacatg
+     9301 cgtgtggtgc tcgatgtgga tcacaacgcc gccatgatga aggtgttgga gtcgctgaat
+     9361 ccgcaggtcg cctcggccat catcaatgcg cgtcaggatg gcgccagcac cgcgctcgcc
+     9421 atcaaggaag cgttggatga ggccgcgctc gtcacgctac tggtcgatcg cgcgcggccc
+     9481 ggcaacgccg tcgcgacagc cgacttcctc ggcgagccgg cgccgtttcc gacagcgccc
+     9541 tggctgctcg cggccgcggt gaaagtgccg gtggtgttat gtttcggcct gtatcgcggc
+     9601 ggcaatcgat acgacttgca cttcgagctt tttgcccaca cgctggtcat cgagcgttcg
+     9661 cagcgccagg ccgcgctcgc ggccatcgtg caacgttacg ccgagcggct tgcgcactac
+     9721 acgcgcctgg caccgtacaa ctggttcaac ttctatgatt tctggcacgt ccaaccgcct
+     9781 ctggccgata gttcccacgc tgctgatggc cctgacagcg gcgcagtccg ccgccgcgct
+     9841 tgatgcggac acgctgctgc agcggctcgc tcgccccgcc cccgccacca ctgccttcac
+     9901 cgaagtgcgt ttctctgcgc tgctcgagca accgtcgatc gtctccggcg agctgcggta
+     9961 cgcaagcgcc acccatctcg accgccgcgt gacggcgccc tatcgtgagg aaacgcagat
+    10021 ccgcggcgat tcggttcgcg tcagccgggc aggcgaggct gtgcgcagct tcggtctgaa
+    10081 tcgtgcgccc gagttgcgtg gcctgttgac gggcttcacc gccctgctgg gcggcgacag
+    10141 agcggcattg cagcgcgagt tcgtaatcga aaccacaggc agcgatgcgg cctggacgct
+    10201 gacgctcacg ccgcgcgatg cacgcgtgcg caagcgcctg ccgcagatgc ggatcgatgg
+    10261 cagcgaggat caaccgcggt gcttctcaat gagctcggcc aacggaggat tgagcgtcat
+    10321 gctgctgggg caggccgccg agtcgcccat tgcagcctcc gttacacgcg agcacttgca
+    10381 gcacagatgc accgcggcgc agccgactcc gattccggaa cggcagcgac cgcaaccgtg
+    10441 atcgcgttcc cgtaccgact cgcccggcgc tcgctctcct gcgttcgctg atgcttcgcg
+    10501 cccgaacact gctgatttgc tgggctgtgt tgctggccgc tctcggctgg tatacgcagc
+    10561 gcaccctcgt catcggcacc gatctgcgac tattcctgcc cgccgcgcag acgccacaac
+    10621 agcgtctgtt gctggaggag atcggcgaag gtccgacttc acgcgtgctg gtggcagcca
+    10681 tcgaggggga caccgccgaa gcgctcgccg atgcgtcgcg tcaggtcaca gcgcagctca
+    10741 tgcaaagcga gagcttcagg ctggtgctca acggtgagat gtcactggat gcagtagccg
+    10801 atacgttact gccctatcgc tatctactgt ccaagacgct ggacacgcag cggttcgatg
+    10861 cacgctttct gcatgaacaa ctgctcgcgc gcgcgcgcga cctgtcatcg ccggtcggct
+    10921 cgtttctcga accttggctg cccagcgacc cgacgctgga gttgttgcac gtgctcgagc
+    10981 aatggcaacc ggtgcgggag ccccatcggc tctacgatgt ctggttcgac cgcgagggaa
+    11041 agcgcgcgct gctgctgatc gaaacggttg cgccggcatt cgatcccgac cggcaacgcg
+    11101 cagcgatcgc cgaaatccgt gcagcgtttg ccgcaacagc ggcctcgcaa atgcgcatga
+    11161 ccgtcagcgg gccaggcgaa ttctcggtgt tgatggaagc acgcacgcgc ggtgaagcgc
+    11221 aggcattggg cacggcggcg agcctcgcca tgatcctcct gatctggctc gcttatcgcc
+    11281 gtgtcggcag cgtgatcctg agcgcactac cgttggtcag tgccggcatc gctggactgt
+    11341 ttgcggtaag cgcggtgttc ggcgaagtac acggcatcac actcgcgttc gggttcacgc
+    11401 tgctgggtgt ggcgcaggac tatccgattc atttgctcag tcatcagcgc ctgcaggcca
+    11461 cgccgcttca gaccgcgcgc tcgctatggc ccacgctcgc gaccggcatc gccagcacct
+    11521 gcatcgccta tttcactttc gcgttttcag gcgtcatcgg cctgcagcaa ctggcgtgct
+    11581 tcaccgtcac cgggctagcg gtcgccggca ttgcgacgcg cttgctgctg ccacgactca
+    11641 tgcaaccctc tgcgcgggac gtcggcaatt cgcgctggct cgccaatcta tgggaccgga
+    11701 tcgcaagcct gccgcgcgcg acctgggccg tgcccgcatt ggcatcgctc gccatcgttg
+    11761 taatcgtcat ctcgcccacc acatggtggg aaaacgattt gggcaaactg acgcccgttc
+    11821 ctgccgacct gttgcagcgc gaccaggaac tgcgctcgca tctgggcagc gccgacgttc
+    11881 gatacctgct ggtcgtcgaa gcgccggacg tcgatgcggt cttggcccgg ctggaatcgc
+    11941 tggacgagcc gctgcgccag ctcgtgaacc ggaagatcat cgcgggctac gatcacgctg
+    12001 cccgctatct gccgagccgt gccacgcagc tcgagcgtca gcgccgtctg ccgccgagcg
+    12061 agcagctgca gcgagcgctc caggatgcgc tgccgggaac gggcttccgc agcgaagtgt
+    12121 ttcagccgtt catccaagcc gtcgctacag cgaagacact tccaccgttg actttcacag
+    12181 agctgcaacg ctcggctttc ggtgcgacgg tggatgcgct cgtgtcatcg cgtgacggca
+    12241 aagtctctgc gttgatcacc ttgaccaacg tcagcgatgc gcgccccttg cagcaatttg
+    12301 ccgcgcagcc cggactcacc ttgctcgact tgaaagacgc tgcggaatcg ctggttgcgg
+    12361 atcagcgggt acgcctgctc tggagcctgg cggtagctgc gctggcattg ctcggcgtca
+    12421 ttgcattcgc actgcgcaat ccgctgcgta tagcgcgagt gctgacaccc atggcgctga
+    12481 caacgctgat cgtgatcgcc gtgctgcacg ggagcggtgt ctcgctgacg ctgtttcatc
+    12541 tgatcgcact gatcctcgcc gcgggcctgg gcctggacta tgcgctgttc ttcgaacacg
+    12601 cagcgcatga cccggccgag caacgccgca cactgcatgc agtgctgctg tgctcggcct
+    12661 cgacgctgct ggtcttcgca ttgctcgcca cttcgagcat gcccgtgctg cgagccatcg
+    12721 gcgtctcggt gacgctggga gtcgtgagca attttgtcct ggcgttgatg ctggcgaggg
+    12781 gcgcggggca tggggcatgg gacacgggcc agagggccaa agccgggcct gaggcccgcg
+    12841 aagactccca cggacttgaa tctggttctg gccagagccc agagcccaga gcccagcagc
+    12901 ccctgtcttc tttccttccc cattccggct ccatgtgtct gctggagagc attctccatt
+    12961 gggatgccga tagcatccgg ctgcaaacat cgacgcatcg ctcgctcgac aatccgttac
+    13021 ggcgcgaggg acgtctgcga tcggtgcatt tgtgtgaata cggcgcgcag gcgatggcgg
+    13081 tgcacggtgg actgaagtcg caggcggcag gtgaacgtgc cgcccccggg atgctggtgt
+    13141 cactgcgcgc agtaagcttc actcgcgact acatcgaaga tctgccgggc ccgctctgcg
+    13201 tcgaagcgaa gtgtctgcag gccagcgcga ccagcttgca gtacgcattt cgcgtgacgc
+    13261 atggcgatga agtgctggcg gaggggcgag cggcagtggt gctaaccggg cagcggttag
+    13321 cggttagcgg ttagcggttg gcggttggcg agagtgcatt cgcaccgaga ggcagtccgg
+    13381 agagcttcca gaagctacga actcctgctc gccgcgtaga cgctccggat caggcatgat
+    13441 gcgtagatga ctcgtttcac cgatatcaag ttgctcgcgc cattgcaacg tgccctggcc
+    13501 gaaatcgact acgtgaccat gactccggtt caggaggcgg cgctgccggc ggtgatcgcg
+    13561 ggacgcgatg tgattgcgca ggccgcgacg ggcagcggca agacggcagt gttcgggctc
+    13621 ggcttgctgt cgatgctgga tgcatcgacg gtaaagctgc aagggctggt gctgtgtccg
+    13681 actcgcgagc tggctgatca ggtgagccgc gaaattcgcc ggctcgcgcg tttcattccg
+    13741 aatgtgaaag ttctgaccct ctgcggcgga attccgttgc atccgcatct cgcatcgctt
+    13801 gcgcatgaac cgcatctcgt ggtcggcacg ccgggacgga ttctggagct ggcggaaaaa
+    13861 gacgcgctgc cgctgggatc ggtgcgggct ctggtgctcg atgaagccga tcgcatgctc
+    13921 gacatgggct tcgccgaaga tatcggcagc attctggagc gcaccccgaa gcagcgtcag
+    13981 accctgctgt tctcggcaac gattcccgaa ccgattcgtg agctcagtcg acaataccaa
+    14041 cgcgacgcgt tcgacgtcac gatcgagagc gacgtgcagt ctccgcggat cgagcagcaa
+    14101 ttcttcgaga tcgagccggc tgcgaagctc gatgctctcg aagcactgtt gctgcagcgc
+    14161 cgcccggaat ccgtggtcgt gttctgcaat acgcgccagg aggtgcgcac ggtcgctgca
+    14221 gacctcgccg ctcgcggctt cgcagtgctg gccttgcatg gcgagctcga acaacgcgag
+    14281 cgcgatgaaa tgctggtgcg cttcgcgaac cgcagcagca cggtgttggt ggcatccgat
+    14341 gtcgcggcgc gcggcctcga catcgctgat ctggcaatgg tgatcaattt cgacatggcc
+    14401 tcggatgcag acactcatct gcatcgcatc ggacgtaccg gccgcgccgg tcgtgagggt
+    14461 tgcgcgttga ctctgtgttc accgcgcgaa gccgcgcgca cacgcgtcat cgaagagcgg
+    14521 ctcggtgagc ctttgcaatg gagcgaagtc cctgtgctat cgaaccaggc cgctctgtgc
+    14581 gcgccgttcg tcacgatcgc cgtcgacggt ggacgcaagg acaagctgcg acccggagat
+    14641 ctgctcggcg cactgacggg cgaggcaggt ttgccggcca cggccatcgg caagatcgac
+    14701 gtcttcccca cccgcactta cgtggcaatc cggcgcggct tgcatgacca ggcgctgcag
+    14761 cgcctgcgag ccggaaagat caagggtcga gcgttccgga ttcggaagct tggctgagtt
+    14821 tcgaccgcgc tctactttgc ctgcttgacg ctctgcgcat ccttcgacgc tgcatcgcgt
+    14881 cccgcaaaca gcgtcaacag cggccccgcc atgaaggtgg taaggatggc catgatcatc
+    14941 agcatggtga acaagtcgtt gccgatgatg ccgctgtcca gccctacttt gatggcgatc
+    15001 agttccatca tgccgcgcgc gttcatcagc gagccgacgg caagggaggt gcgccaaggc
+    15061 tggcccgaga tgcgcgcgcc gacggcgccg ccgacgatct tgccgatgac ggcgacggcg
+    15121 aggatcagca gcgttgcacc gagccctgcg ccgacgaagg catcgggtgt ggtgctcaat
+    15181 ccggcaagcg cgaagaacgg cggcatgagc accaggatgg cgacgtattc gatgcgttcg
+    15241 atgagcgcgg ccagcaatcg gtcatcgcgc ggcagacagg cgccgaacag gaaagcgccg
+    15301 aatacggcgt gcacatcgag gatttcggtc acataggcgc aggcgaagct gccgatcaac
+    15361 agcatggcca gcgatgcgcc ttcgggacgt ccgtcggcag cgaatcgcgc caacagcttc
+    15421 gccaccagcg gtttgatgcc gaggaacaga atcagcgaca gcgccgaaag tccggcgatg
+    15481 gtgttgaaga agcgtcccca gtcctggcca ctgctggcga gcaccacgac cagcgccaac
+    15541 agcacccagg cgatcacgtc gacgaacgct gcgcccgtca gcgacaacct gcctacggtc
+    15601 gtgtgcgtga gctggcgctc cttgaggatg cgcgccatga ctggaaaggc cgtgatggac
+    15661 aaggccgctg cgaggaacag cgcaaacggc cagaacgtca cgccttcggg cgccagcgtt
+    15721 tcatagagca atgccgccgc cgcaaggccg aggccaaacg gcgccagcac cgacaacacg
+    15781 ccgatccacc ccgctgcggt cagttgctgg cgcacgccgg tgggcaggcg cagctcggcg
+    15841 ccgacgatga acatgaataa caccaagcca agctgcgaca ggccgttgag cgcgcccagg
+    15901 ctcccgggcg caaaaatgtg agcatgcgct tcaggtgcaa ccgcgccgaa tacgataggc
+    15961 cccagcacga tgcccgcggt catttcgccg atcacggagg actggccgaa atagcgcagc
+    16021 accagcccca ggatgcgagc cgtcccgatg atgatgacaa gctgcagcag taacggtgag
+    16081 tgcgtcacgt tggctcgccg gacattgtca tgccgccacg tcgaacagca gcgtggcagc
+    16141 gttgtccgct gcttccgtat cgatcagacg cagcaattcg cttgcgtcca cttcgggaca
+    16201 ctgttgcagc gcgcggtcca cgatctgcct cgccagcaca tgcaggagac tggcgttctc
+    16261 tttgatacgc gcgcggaagg cctcttcatc gagcacatcg ttcagcgaac gattcatctc
+    16321 cgcaaaccac ggaagcgatg cctggtccag catcacgctg gcattgcgtt tgcggctcac
+    16381 tttggaccat gcgcgcagga aattctgcat ggtcatgttg agcgccttgg aatgacccag
+    16441 ctcggcagac aggcggctga tgttgttgat atcggtgagg cgatgctgaa agaacaactg
+    16501 gcagagaatg ccccagtagt acgcgtaatc ccagatcact ttgaccggca tcacttgcgg
+    16561 atcgcccatg atgggatact gatccgtata cagcgacaac gtgctctcgt agaacgagaa
+    16621 gtacagctgt tgatagacgc tggcgcggcc gccgacgtgc tcgccggcca ggtcgcgcgc
+    16681 gatcagatcg gtgatgtagg tgttgctgat ggcaatgaaa tcgctgccgg gcgaatagaa
+    16741 ggggtcgagg aacacgccgg cctcgcccgt gagcgcccag cgatccccgc cggagaacac
+    16801 ttgcttgcag ccatgcgaga aatttcgcag gaagcagaag tcctgcagca ggtgtttctt
+    16861 gccctccagc tcctgcgcca atcgcggctg gaacttgcgg aaccagtcca tggatttctc
+    16921 gaacgtgttc atggtttcca gcgggtgaat cttggcgtcg cacacgatgc ccacggaatg
+    16981 cgagcccgag gccagcggaa tcaaccatgc ccaatagccc tcgcccatca ggtgattggt
+    17041 cgagagccag cgcagcggcg ggtcgcagcg cttgagccat tgctgatcgc tggaccattc
+    17101 atcgatgtcg atcttggtgc cgatgcggaa ccatacggca ttggcattgt gtgcattgtc
+    17161 ctcggccaga ttgagcttgc gcttgatcag gccggcgcgt cctgaagcat cgacgatcca
+    17221 gcgcgcagtg gcttcgtgct gctgtttgct ctcgcccatg ctctgctcgt agcgaaccgt
+    17281 atgcgtcgcg ccgtccttgc cgaggtcgat gctgcgcacc gtggccgcat cgacgaagcg
+    17341 gatgcccaac tcacgcgcat gctggcccag atagttctcg aagatgccgc ggtccagctg
+    17401 atagctgggc gtggcgagat agcggctcgc gccgagctcg gtaacgcctt cgatgtcctg
+    17461 gcgcacttcg ggatagatga aatagcgcag gccgaacttg cgcagctggt tcttgctgag
+    17521 atgctctttg agtccgagca cggtgtcgaa atagtgggca cctatctcga ccgaagactc
+    17581 gccgaccttg tgagctgctt cggccactgg atgagcgcgg cgctcgagca ccagaatgtc
+    17641 cagtgcagca aacttctgac gcaactgcag cgccagggtc aggcccgcca atccaccgcc
+    17701 gagaatgatc acgtcgttca ttgtttggaa gtgattgctg actggtgact gaagagaatg
+    17761 ccgagctgca acgtcgcgcc gcggctgagc cccaaggtta ccgttcgcgc ttgctcctgc
+    17821 gccagcgctt cgaacacagg cagacacgga gccagggcgt tttcggcgat cgctggcgcg
+    17881 gctgcggaat gcgcctgcgt aagctcgcac tcgccggaac gcatttccag gctcatctcg
+    17941 acttgtgcgc tctcggatcg gtccggcgcc aggagcaagg ccgcaccgag tacacctttg
+    18001 ctttgggcca tggtgctcag tgcccccttg gcctcgatgt cgaaggcgac gtacagcacc
+    18061 ggctgggcct cgcagagcgc ctgcgtagct gcttccagca agcctgcggc gaaggtgtac
+    18121 tggtaggcgc tcaccgcggt gtaggacgag tagctgtggg tgccgatgct ccagtagcca
+    18181 gcagcagcgt tgtgcacgga gttatggaat ttgatgggag agatcaatgc cggcgtactc
+    18241 gccagtgtcg agcacatgta gtcgctgatg gctacatcgc cgtgtgtgga agcgaatacc
+    18301 gaggcaaggc cggcaggcgc gcgccccgcg gcgtcgcagg cacgactcgc cacttccagc
+    18361 gcaacggcga ccgtatccgg cgcgcgacgt cgctccgtgg gcgcaagcag agttggcgcc
+    18421 ggacgcgcca acgctgcgga cggcatcggc tgctcgccgc gcatcaccgc gcgcgctgct
+    18481 tgccagtcgg gcagccgcga aaaccagaac gcaatgccct cgacgtaaac gcgcaatggc
+    18541 gaggaggtca tcgcgcgatg ctccgcgcga atgccaggac gcaattgctg ccgccgaagc
+    18601 cgaaggagaa actcagggcg cgttcgatac ggcgctcgac gttctcgatg cgaatctgcg
+    18661 gcccgcatgc cggatcgagc gtgttggtat tcaacgtccc cggcagcagg ccatgctcga
+    18721 gcgccagcag cgctagcgat gcttcgacaa ttccagccgc acccagcgtg tgtcccatcc
+    18781 aacctttggt cgagctggcg acggtggtcg gggggaagag ctcggccacc acctgtgctt
+    18841 ccacttcatc gttcttgcga ctggcagtgc cgtgcagatt cacgtaatcg aaatcctgag
+    18901 cctgcaggcc actgcgcgcg aacgtgtcct cgagcgccgc tcgcgcaccc aagccttgcg
+    18961 gatgcggagt cgacatgtga tgcgcatcgc tggattcgcc gtagccgatc agccacggcc
+    19021 cgcggcttgc gtcgcgctcc agcaaggcgt agccggcggc ctcgccgaga ttgatgccgc
+    19081 gacgttccac gtcgaatgga cggcacggct ccggcgacac cagctcgagc gagttgaaac
+    19141 cgaacagcac gctgccgcac aacgagtcca cgccgccgac gatcgcagca tccgccaggc
+    19201 cgaggcgcaa cattcgctcg gcttgcgcaa acaccttggc gctggatgaa caagccgtag
+    19261 ccaccgtgat agcaggcccg gacagctgca gcgcgttctg cacaaagtcg ccgagcgaat
+    19321 gcggtgtatg gatgatccgg cgacgcagcg cttgcggata ctgcccatcg ggctgcaggt
+    19381 cccgataggc gtcctcgctg gcgccgatgc tggaggtcga ggtccccacg atcactgcga
+    19441 tccgatgcgc accgtagcgc tcgcgcgctg cgcttaccgc ttcgaaaaat ccatcttgcc
+    19501 gcagcccgag ccatgccaga cggttgttac ggcagtccca ctccgcgagt ggcgccggca
+    19561 atggctcctc ctccaggcct gttacccgcc cgatccaggt tggcaggggc gaggccccga
+    19621 aatcgttgcg tcgcagaccg ctgcgccgat tgcgcaaggc cgccagagtg ctcgcacaac
+    19681 cctcgcccgc cgctgaagtc agcgtatagg cggatatgcg cagtggacgg atgggcatgt
+    19741 tcgatgggag ctgcgacgcc gtaaggtcaa agcgacgggg cactgcgtgg attgcgcctt
+    19801 acacgatggc gccgcaacgt gccgcgttca cttcgtcacc cgattcgcct cgatgtgcgc
+    19861 ggcgagcgag cgcagcgagc tgaagatgcg gatgttgttc tcatcgtccg agcgcaattg
+    19921 aaatccatag cgcttggaga tttccaaggc cagttccagc gcatcgatcg aatccaatcc
+    19981 caagccggtc ttgaacaagg gggcttgcgg atcgatctcc tcaggcgcgg tgccctcgag
+    20041 gttcaacgcc gtgacgatga gttcggcaag ctcgcgctcg ccagccgatt gtgtggactc
+    20101 tgtggacata tcgtgaaaac cgaatccgac gccgcggatc cttgaaaaaa actctaaccc
+    20161 aacccctcga ggcggcctga acgacgtccc tcgtcgtaaa tgttatgact tcggccgcgt
+    20221 cgagctcaca gcgctgaacc gtcgcaggcg cgaagtgtat catccggctc cgcacagttc
+    20281 tgccgttcaa ccctgagagc gccatttgca agtccgagat tcgaccgacg atctgttcag
+    20341 ccgcgggtcc ggcagcgatc aaccagggca cgtcggtatt cttccccgcc cacgcgtcga
+    20401 gtatcgcgag ttggccggcc cggtcatccc cgacggcgtg ctggcggcag tccgcttcgg
+    20461 atcacggctg ccggccgttg cggggccttg catcgtggac gtggatcttc aaccactgga
+    20521 tcgcggcgcc accgccgagc tttggtgggc ccagggtccg gtgacctccg gacgcagcgg
+    20581 cgcaatccgc ttcgccagcg acagcgcatc gctgttcggg gtactggagc tggatgagcg
+    20641 ccatttcgac gatctctgca gcgccgccga agccgcctat cgccagatcg tgggctttca
+    20701 gacgcagtca ggctttcctc atctgctgcg catgtggaat tacctcgacg acatcaacga
+    20761 acagcgcggc ggcctggagc gctatcggca attctgcctg ggacgcgcgc gcgggctggc
+    20821 aggcagcggt gtcggctatc ccgcggccag cggcatcggc cgtcagcatc ccactcacat
+    20881 actgcagatc ttctggctgg ccagccgtgc gcccggagag gccatcgaga acccgcgcca
+    20941 ggtcagcgcg taccattatc cgccggagca cgggcccgcc agtcccagct tctcgcgcgc
+    21001 cgccatcgga ccggacggta gcctgttcgt ttccggaact gcgagcatcg tcggccatgc
+    21061 atcccatcat ccctgcgacc cgctggcgca agtggacgaa acggtgcgca atctgcgagc
+    21121 gttgaatgcg ctcaacccgg acgacaacgt gctcttcaaa gtttacgtcc gggacgccgc
+    21181 gcaggcggac gcgatccgcg agcggctgcg cgccgtcacc tcggcccgga cattgttcct
+    21241 gcaagccgac atttgccgca gtgagttgtt gctggaaatc gaatgcgtgc gtccagcatg
+    21301 ccggagccca ggatcagccg cgtcgtaagg cctgcatcag caaatcgcgc ggcagcttgc
+    21361 cgagctcatt gcgcggcagc gccggcacga tgagcaacgg ccgcggcaga aacgccggat
+    21421 cgacgctcgc ggacagcttg tccaacaggg accttgccgt catgcccggc gccaccgcca
+    21481 gcgccgcaac gcggcggatc gtcgccacgg cttccgcatc gggctgaaac acgatcgcat
+    21541 cctgtacgcc ttcgatcgcg cacaggcgac gggtcagctc cgcaagggat gctcgtttgc
+    21601 ccgccacttc gatgagatcg gtattgcgcc cacgtacggc gaagctgctc tcgctacaaa
+    21661 tttccagcac gtcctgcagc accatgggag tctcgaacca tggcgcgttc accaccgtgc
+    21721 tgtcctctcg cggctgtaac agcacccctg cgtacgtctg ccagtgggac tctctcgcgg
+    21781 tgcgacgccg ggcaaaaacg cacgtttcgg tcgagccgaa catctccagc aactgaccgc
+    21841 cgagtttgcg ctccactgcc tgcgccaact ctgcatccaa cggcgccgtc gccgaaacaa
+    21901 tcagtgcggt cgttggaaac ttcacatccg actcaaccag ggtgcgcaga tgcaccggcg
+    21961 tgctgacgag cacgcgcggc tcgcgcacct ccgccaatgc tgcggcgatg tcggcgggga
+    22021 acagcggccg gcccgagtgc accgccatcc cgccgatcaa ctgcaacagc actgtcagct
+    22081 ccatgccata catgtgctgc ggcggcaccg tggcgacgac ccacacttgt ttatccgcag
+    22141 cgacctgcaa cgcctctcgc atggccgccg cgttgcacgc attgctgcca ttcacgctgc
+    22201 gccacaactt cgggtaggtt ttcggctgtc cggtactacc cgaggtgaat ccgatcatgc
+    22261 aggtatgccc ggaagaaatc atcggcgaat ggcgactggc agctggcggc tggtcagaga
+    22321 agacctcggc aaggagggca tcgtcgcaac gatagctgcc tggatgggcg cgttcgacct
+    22381 ccgcaacgat ttgttcggca cgcgaggacg gtaacaagac tgtgtgcttg caactctgcg
+    22441 ccgctgcgta ggcgaccaga aaattgtagc ggtcttcgca gaggttgatc attgcgccgc
+    22501 cccgcatcag acgcgccgag agtgccgcga cgtgcgccgc aaactcatcc aggcgcacct
+    22561 cgcgctgatc gcgccaggcg atcgctcgat tcgaatcgct cccgatccac aatggcaggg
+    22621 atgcggcgct gtgcgcatcg gctgccggcg ggcgagtctt gctgctatcc gccatccgtt
+    22681 atccgccatc cgcttcgtcg ttcatcctgt ccaacgtctg aatatcaacg atgtgttgac
+    22741 gccgccgaac gcgaaattat tgctcatcac gtactcggcc tgcagggcgc gtccttcgcc
+    22801 gctgatgtag tccatatcgc cgcagcgcgg atcgacattc tccagattca gggtcggcgc
+    22861 aaaccagccg cttttcatca tctcgatgct gaaccaggct tccaaggcgc cgcacgcccc
+    22921 gagcgtatgg ccgagataac tcttctgcga gctgatggga atatgccgac cgaacagcgc
+    22981 ggcagtggcg cgcgtctcgg caatatcgcc atgctcggtc gccgtgccat gcccattgac
+    23041 gtattgaatc gcctgcgggt ccagcgccgc gtcctcgagc gccagctcca tcactttgcg
+    23101 catggtgcgc tcttcgggct tggtgacgtg cacgccgtcg gagttgctgg cgaagcccac
+    23161 cagttccgcg tggatacggg cgccgcgctt gcgcgcatgc tcgagatttt ccagcaccag
+    23221 catgccggcg ccttcgccga ccaccagccc gtcgcgatcg cgatcgtagg gacgcggagt
+    23281 gagctgcggc tgatcgttgc ggcggctggt cgcatacagc gtgtcgaacg ccatggactc
+    23341 tgtgggacac aattcttcag cgccgccggc cagcatgaca ttctggcgtc cgtacttgat
+    23401 ggcctcgtaa gcgtagccga tgccctgact gccggaggtg caggcgctcg aagttggaat
+    23461 gatgcgtcca gtgataccga agaagatgcc gatgttcgct gcggctgtgt gcggcatcat
+    23521 gcgcacgtag gagttggcgt tgaggccact cgcatcatcg ctgagcagca tcgcggcgaa
+    23581 atccttgata tcgggagtgc tgcctgtgca cgaaccagtc gcaacaccca tcgcgccact
+    23641 gcggacgatc ggatcgctcg ccagtcccgc atcgctcagt gcgccttcgg ctgcgtagac
+    23701 cgcaagctgc gagactcggc ccatgctgcg cagctgtcgg cgcgtccagt gctgcggcac
+    23761 cacgaaccaa tcgacgggag cggccagccg cgtgttcatg tccgagtacc gatcccactc
+    23821 gggcatgaag cgaacgctgt tgcggcgcgc tcgcaatcct ttctcgacgg cctgccacga
+    23881 gtcgccgagc gcgcacacac ctgacatgcc ggtgaccacg acgcggatca tggcaggacg
+    23941 gctgggcact gggctctggg ctgctggcca gagatccgga acggactcgc gttgtttgca
+    24001 gctcttggct gatctggcca gagcccagta cccagcgccc agcagccctg attcaacaca
+    24061 gcccaccgtt cacagcgatg acctggcgcg tgacatagga ggcgccgggg gaaagaagaa
+    24121 aactgaccac ggccgcaacc tcctcgggcg ttccggcacg ctgtgcggga atggccttga
+    24181 gaatttcgtc caggggcagg tgctcgtcca ccatgtcggt ctcgatcagt cctggcgcca
+    24241 cgcagttcac tgtgatctgc cgcttggcaa gctcgatggc cagcgccttg gtggcgccga
+    24301 tgaggcctgc cttggcggcg ctgtaattca cttgcccgcg attgccgatg aggccggaaa
+    24361 ccgaagccag cgtaacgatc cggcctggcg cacgccgtcg caccatgggc atggtgagcg
+    24421 gctgcacaac attgtagaag gcgtcgaggt tggtgcggat cacaccatcc cattgctgct
+    24481 ccgtcatcgc aggaaaggcc gcgtcggccg tgatgccggc gttgcagacc agaccgtaat
+    24541 aggcgccgtt gcgcgcaaca tcctcagtca agacttcggc gcaacgcgct cgatcggcca
+    24601 cgtcgaattg cagtacccga ctgttacgcc ccagcgcagc gatctgcgcc gccactgctt
+    24661 cggcctcctc gcgtcgcgag cggcaatgga ccaccacgtc aaagccatcc gccgccgcac
+    24721 gcaaggcgat ggccttgccg atgccgcgac tggagccggt gatgaggacg gaggaggaca
+    24781 tgggaaggct gtaggctgtg ggtaagaaca aggctgtggg ctgtaggctg taggctgtag
+    24841 gtcagaataa gaggggcgaa ttcggactgg aatggagcat cactgactga gaagacgtgg
+    24901 ccaagcaaag tgatcttgtc cgacccacag cctacagcct tccggctacc gcctctcctc
+    24961 cctcgcacac agctgcgcca ccatgtccag tcgacgttcc ggttcggcca cgaacggatt
+    25021 gctctcgtcc caggcgtagc cggcgaggat agagcagatc atgcggcgaa tcgccggcgg
+    25081 ttgggtcttg gcgaacatga tgtcctggaa gcggccgtcg taccacgcgc gcacgtaggt
+    25141 tcgaaacgtg tccacgcctt tgcgcagcgg cgtttcgaat tcgccagccc aatccaccgc
+    25201 ttcaccgcgc aactggcgat cgagcagccc ggccgccatg ctggcggagc gcatcgcaat
+    25261 ggtgacaccc gaggagaaca cgggatcgag aaactcggcg gcattgccca ggagcgcgaa
+    25321 acccggaccg tgcatggcct tcacgttggc ggcgtatccg cccaactcgc gcgccggcgt
+    25381 atcccacgca gcgttcgcca acacgctgcg cagaaacggc tcttcctgca ctagcgtgcg
+    25441 caatttctca tccgcgctcg tcgagtaatg ctcgaaaaat tcgcgcgccg cgaccacacc
+    25501 caccgagcaa cgtcctgcag gaaacggaat cagccagtac cacacgtcgc ggtgctgcgg
+    25561 atgcaccacc acttggatct tgtcgcgatc gaacgagtct tgcgccgcac cgtcggccac
+    25621 gtgcgtgaag atggcgttgc gcaccggaaa gctcgaaggc gtttccagat cgaggagttt
+    25681 cggcaaggtg cggccgaagc cgctgccatc aagcacgaac ttcgcgtcga catcgtattc
+    25741 ctcaccgctg gcgtcgcgaa ccagcaggcg cgagcgcgcc tgcgcaagct ctgccgcgat
+    25801 cacccgcgct tcatagcgaa tgactacgcc ttgccgtgct gcttcgtccg ccagaagctt
+    25861 atcgaaggtg gcgcgttgca cctgataggt ggagctgcgg ccggcgctga atttttcgct
+    25921 gaaatcgaaa tcgccgtact catcggcgcg aatgaaggcc gcaccgttct tgtattggaa
+    25981 tccggccgcc tccaccgccg gcagcatgcc ggcttcgtcg acgaaatcca ggcagtgggc
+    26041 gagcaggctt tcgccgatgg agaagcgtgg aaagcgctgt gcttccagca ccagcacgtt
+    26101 ccagccacga cgccgcagca gtgcggaggc aatggctccg gagggaccgg cgccgatgac
+    26161 gacgacatcg caggacagca tgctggcgga ttacctcgcc acttcgccac ggtcagccgc
+    26221 ggtacggcgg ctcagcttgc gccccaacag gaggggagct cgaaccagca tgcccagaac
+    26281 caatcggaca tgcaggcttg tcatgcgcac attgtcgaag aacatgcgga agtgcgacac
+    26341 gccatcggcc gggtacacca cacgagtatc gatccactgc atcgaaagtc cacgccagta
+    26401 gagccgcacc aggatgtccg tatcgaaatc catgcgcggc ccgacgccat ggctcttcag
+    26461 cagcgagccc actgcagcca acggataaag gcgaaagccg cacatcgaat cgcggatatc
+    26521 gaacgagaga gtttccagcc agaccatggc gtgagtcaga taccggccgt agtagcggct
+    26581 tttcggcatg ctcgcatcga agatcggccg cccgcagatg acctggtcag gatgaagacg
+    26641 ggcggcttcc agcaagcggg cgacgtcgct gagcgtgtgc tggccgtccg cgtccacttg
+    26701 cagcgcgtgc gtgaagccgg ccgcgagcgc ggcacgaaag ccgctgcaaa ctgctgcgcc
+    26761 cttaccgcga ttgcgctcgt gtcgcagcaa cgtcacctcg cttcgtgcgt tgagcgcctg
+    26821 cagctcacga gaacaggctt cgctgcaacc gtcatccacc aggaagacat gcaagccatg
+    26881 ctgctgcacg ccctggacca cggccgcaat cgtgcgctca tggttgtaga ccgggatgac
+    26941 agcgcaagcc cgaatcgagt ggccagccat gcagggcgcg gcggccgatt ctccgtgagg
+    27001 ctcgctcatg gaatgcatgc ggcgctcatc cttggtaaag cgcgaagcgc ctgctccaac
+    27061 ccacttggat ccatccgcca tgggctagca acccgctgca ccgggcgcat tcatcgaacg
+    27121 caccgtgtcc ggcaagcaga acctatcgca agcatgtgtt gcattcagcg tcgttgcctg
+    27181 tgagcgccct caggcgccgt ccatagcgcg cgcctcgggc aggatgcgct gcatgacatt
+    27241 gaccagatcc ttgatggtgc gcaccgagcg aaaatcgtcg ggcgacactt tgcgacccgt
+    27301 gtgcttgcga acgtgctcca tcaaatccac cacgtcgatg ctgtcgatct ccagatcgtg
+    27361 aaacaggcgc gcctccggaa cgatcttctc cggcggcaga tcgaacagct cgaccagcgt
+    27421 cgcacggata cgatcgagga cttcgtcctg cgtcagcatt tcaatgagca ctcccgattc
+    27481 acaacgatgc atcgctcccc tgaagatgca gacggcatat gagtgcggac aggctgcgcg
+    27541 gcggcgcacg gagcgcgtcc cgcctgttat cgcgtctgct ggcggagcgg ggcgaagtat
+    27601 aaacccaagt gtccgttcgg gctcgccggg catcccggtg ccagcatcct tcccttacga
+    27661 ccttcttccc ctcacgccct caaaatactg acgcacccgc tcgttgaacg cgcggctggc
+    27721 aagaggcaca gagcgcatgg agcggaactc gggcaggtcg aaatcgtcgc cgacttccag
+    27781 ggtgaacctc acccgttgtg gggtaactcg ataccagcga tcggctttgg tcagcgcagg
+    27841 cggctcgcac cggatgtaca ccggtgtgac gatcgccgcc gcgcgtattg caacgttggc
+    27901 ggcgccgcga tggaaaacca gcgcctgccc gggagtagtg cgagttcctt cgggaaacat
+    27961 caccaggcac tgcccttcac gcaacgcgct ggcggcgttc tcgatcatct catcggtatg
+    28021 ctcattgctg atgtaccccg ctgccttgac cgcgccgcgc gtcaacggat tgcgggccat
+    28081 cgcgtgcttc accacacagc ccgcctgggg cgcgaacgcc agcagaaaca ccacatcgag
+    28141 aagcgatggg tgattggcga cgatcagctg acccggccgg cccagccgct ccacgccgcg
+    28201 aaactcatag tccagaccgc gcagcccgct catgaaggcc acgaaggcgc gcatcgcggt
+    28261 ccgcagcagt cggcgggccc gcgcacggcg gcgggccgga tcgagcgaca cgagcgcaat
+    28321 tgccggcagg gcaagcacgc tcagcagcac cgctgctacg gcaaatagcg cgaagctggc
+    28381 ccagttcacc actaagcgcc agtaaaatgc gtcacgccgc atctcgagcg acgcgccggc
+    28441 cacgtgcgga tgtgcagcca tgaaccccgg aaatcacctg aattgaaacg cgactatgat
+    28501 gcccgagtcg cgcgcttcgg ccgaatgcgg ctgcaatccc cgagcctacc agcgttacac
+    28561 cggccgcaag atcaactggt tacgcgcgcg atgtcttccc acgatgcgat ccagcgcagt
+    28621 attttggctt acgtgagact aggcggcgcc ttcctttccg cgcgatgtcg gtcgctcaac
+    28681 gcagccgctc ccgcacccgc tgccggtcct ggggcggaag atcgcgaaat cgctggcgca
+    28741 actcctgtcg gcgctctacg ggcaaccgct gaaaacggcg gaagttcttg cggatgcgcg
+    28801 cctgctccgt gggtgtcagc gcattgaact cacggtagcg accacgaatc tcgcggcgtt
+    28861 gctccggcgt caacgcacgc catcgctgga agcgctgctg cgcctgtcca cgctgatccc
+    28921 gcggcatcga cagccagcgc tgagcgcctt tggccagtgc ttcctggcgc tgcggcggta
+    28981 gccgctccca ttcggtcttc atgttgacca gcaactgctg ctgagtttcg gacagcgcct
+    29041 cccaggagat cccgcgcgcc gagctctcct gcgcctggac tgccggaaag gtcagcatgc
+    29101 agctcaacaa caacaattgc gcccaccggt tcatagtcat ctcacttggc cgccggcgcc
+    29161 ttgtccgagg ccggcttctg tgccgaactc tccttcgcct tgcgcggctc cttggaaggc
+    29221 cgctgcggcg gttgctgcgt cttttcgaac aacgtccagt cctcgtcggc gccttccagc
+    29281 tccgcaagat actcgaggaa ctcgacgtcg atcggctcga gtttttccgc agcgagtacc
+    29341 cacgccgcaa gcgtcaagcc aagcgcagcg gcgaaggcac gcgcaccgtt catccgctct
+    29401 ggtcgcctgt cgagaggtcg gcctggcttt ccagccaggc atagaactcg atgtcttgca
+    29461 gcagctcgag attctccgca tcggcaacca gatcgaagtc ctcccacagc agcgcagcgg
+    29521 gctcctcgcc cgactgccgg tgagccagcg gcccgagcaa tgccaatgcc gcggccgcag
+    29581 ccaaaccggc ggccggaacc caacgacgcc acaccatcga tattctggag cgccgcagct
+    29641 cgtccaacgc tgcctggcgg gcttgcgtga gcctggagcg ggtgcgtgca tccagcgaat
+    29701 cgacactttg ctcgagcagc actttggccc gctcttcaac agctgaggcg actgcgtcat
+    29761 cgctacgttg ctttaccacg catcccccag ttgcgcccgc agcgtatgca ctgcacgcga
+    29821 ataatgcgtc ttcacgctgc cttgcgaaca gcccatggcg gacgctgttt gcgccacgtc
+    29881 caggccctcg aagttgcgta gcaggaacgc ttgctgctgg cgcgccggca acgcagcgag
+    29941 cgcctggtcc agcagctgca tggcctcatc ggccatcaat cgctgctccg cccctggttg
+    30001 cgcctgatcc ggcgccgagg ccacgggatc gatctcggca tcctcattca tggacaacgg
+    30061 caaccaggcg aacagcttgc tgcgaaccag gcggcggcgc tgacaatcgc gaatgcgatt
+    30121 ctgcagtatg cggtagaaca gcggccgcca ctcatcgctg ggccgtcgcc cgtaacgacg
+    30181 ggccagctgc aacatcgcgt cctgtacgat gtcgagtgcg tcctcgtcgt tgcgcacagc
+    30241 gacgcgggca attcgaaatg cgcgtttctc gacgccggcc agaaagcgct cgaggctgcg
+    30301 gacctgatcc agactttgct cctgcgcgaa cgaggaatcc tcgctccagt gaagcgcgag
+    30361 gacaggcaag gtaccagcca ttctcatgcg accaattcca gcgccgatcg accacggcat
+    30421 gcctgagata acgcggccgc tcgcagccgg ttgaccgcgg atcggcaaag cgccaccgtg
+    30481 cgcagccggc taccgcgcgg ggccgagctc ccggatcgca ggcggcgctg cttgccccgg
+    30541 gcgcatcgaa atcataactg catgttttta tttgtaaacc cagccatccg tgatcctcgt
+    30601 cgtcgccgtc aacacgcccc tatggcgaac cttcgattac cggcctcctg aaaatgtcgc
+    30661 cgacgctctg ctgaggccag gccatcgggt gtgggtgcct tttggccgcc gccgcgtagt
+    30721 gggcatgatc gtcgcccggc gtgagaccag cgacgtgccg ctgaacaaac tgcgcgcggc
+    30781 ctacgaagtc atcgatacca caccggtatt cgacccggtg ctgctgcaat tgctgctctg
+    30841 ggctgccgac tactatcgcc atcccgtcgg ggaagtcatc gccgccgcac taccgacgct
+    30901 gctgcgccgg ggcgagcccg cggaggaaca ggcgcccact tggatgctca cgccgctggg
+    30961 cgagcatgcg gccggcaccg agctgccacg ccgcgcgctg cggctgcacg ccatcgtgga
+    31021 atatctgaaa ctccacggtg agacccgcta cgacgttctt cgcgaagcca cgcaggcaag
+    31081 cagcgagcac ctgaagaaac tggcagatcg cggcttcgtc gaagcacgta cgcgagttgc
+    31141 tgcagcggcg ctgacgacat cggcagaagc caagcccggt caagtactca acgatgcgca
+    31201 gcgtgcggcg gtacaaacga tacgcggcaa cctgggccgc ttcgtcgatt gtctgctcga
+    31261 aggcgtcacc ggcagcggta aaaccgaggt gtatctgacg gtcatcgccg atgtgctggc
+    31321 cgccggtgcg caagctctgg tgctggtgcc ggaaatcgca ctcactccgc agctgattgc
+    31381 acgcttccgc gcgcgcttcg cagcgcccct ggcgatcctg cattcagggt tgaacgacag
+    31441 cgaacggctg acggcatggc gcagcgcacg ctcgggcgag gcgcgcatcg tcatcggcac
+    31501 ccgctctgcc gtgttcgcac cgctggcgca gccgggcatc ttcatcgtgg acgaagagca
+    31561 cgatccttcc ttcaagcaac aggacggctt tcgctactca gcccgcgatc ttgccatcgt
+    31621 gcgcgcgcaa cgccacaacg tgccgatcgt gctgggctcc gccacgccct cactggaaac
+    31681 gctggctcgc gcacgcaagc atcccgagac ctggctcagc ctgcccaagc gcgctgccga
+    31741 ggcgcagccg cccagattgg cgctggtgga tctgcgcaag cacgccgccg cccaaggcat
+    31801 cgctacgcca gtgcttctcg ccatgcgcag gcatctggat gccgagggac aaatcctgct
+    31861 gttcctcaac cgccgcggct atgcgccggt gctgttctgt ccacgttgcg gctggtcggc
+    31921 gcactgtcga cgctgcgatg cgcatctcac ggtgcatcgc cacggcagcg agttgatttg
+    31981 tcatcattgc ggcgttcagg aaccgcagcc gctgcagtgc ccgagctgcg atgccacggt
+    32041 gaaaccggtg ggacagggaa cagagcgcat cgaagaaacg gtgcaacaga cgttcccgga
+    32101 tgcgccgctc gcgcgtatcg atcgtgacag catgcggcgc aagggcgagc tcgaagccac
+    32161 gctggcgcgc atcgaccggc gcgaggttcg catcctgatc ggcacgcaga tgctggccaa
+    32221 gggccatcat tttcccaacg tcaccctggt ggtcgtgttg aacgccgacc agggtctgtt
+    32281 cagcacggat tttcgatccg gggaacgcct ggcgcaaacc atcgtgcagg tagccggccg
+    32341 cgccggccgc gccgaacgca gcggcgaggt gctgattcag accgagtatc cagagcatcc
+    32401 tttgttgtcg ctgttgttgg agggcggcta tcccgccttt gcccaaggcg cgctggccga
+    32461 gcgcgagcaa gcgggctggc cgccgtactc acgcatcgcc ctgctacgcg ccgaagccac
+    32521 ccagccgact gcaaccatgc ggttcttgcg agcggcactc gccgcaacgc gagcgctgca
+    32581 gatgcgcggc gtcgaagtcc gcggacctgc gccggctccg atggaacgtc gagcggggcg
+    32641 ccatcgtgcg caactgctgt tgcaagcagc gacgcattct cccctgcaac gcgtcctgag
+    32701 cgcctggctg ccgttgctcg aagcgctgcc tgaagccaag cgcgtgcgct ggtccgtcga
+    32761 cgtcgatccg ggagagctgg attgagaggg gcatggggcg cggggcatgg gacacggatc
+    32821 agagggatcg cgccccgtta cccgtcagcc gtgccctgct aaactcgatc gctccattcc
+    32881 agatccgttc gccctcactt gaaataccag ctcgaaacac ttctgcaagc ggctctggcc
+    32941 actctgcccg cggacatcct gcccgcggat attcgtcgtc cggccgtcga tctggaacgc
+    33001 acccgggatg cggcgcatgg cgacttcgcc accaacgtgg cgatgcagtt ggccaagccc
+    33061 gcgcgccgca atccgcgaca gctcgctcaa gccatcgtcg atgcgctgcc ggccagtgag
+    33121 ctgatcgcca ggacggagat cgccggaccc ggcttcatca atttccatct ctcgccgcag
+    33181 gcttaccagc aagaattggc gcgtgtcttc gcgctgggcg cggcgtatgg ctacaacaag
+    33241 cgcggcgccg gtgagcgcac gctgttggaa ttcgtgtcgg cgaatccgac ggggcctttg
+    33301 catgtcggtc acggcagaca ggcggccctg ggcgatgcgc tggccttcat cctgcagtcg
+    33361 cagggttacg aggtcagccg cgagttctac tacaacgacg cgggcgtgca gatccataat
+    33421 cttgcactgt ccgtgcaggc gcgggcacgc ggcctggcgc ccggcgaacc ggggtggccg
+    33481 gagtccgcat acaacggcga gtacatccag gacatcgcac aagacttcct ggccaagaaa
+    33541 acagtgcatg cgctcgatgg cgagcccgtc aaagccaccg gcaagccgga cgatctggaa
+    33601 gccatccgca gattcgccgt ggcgtatctg cgcagggagc aggatctcga tctgcaaaaa
+    33661 ttcggcgtgc gcttcgacaa ctactatctg gagtccagcc tctataccga tggcaaggtc
+    33721 gagagcacgg ttgcgggcct gatcgccagc ggcaagacgt atgagagcga aggggctttg
+    33781 tggttacgca ccaccgagtt cggcgacgac aaagaccgtg tcatgcgcaa gtccgatggc
+    33841 acgtacactt acttcgtgcc agacgtggcc tatcacgtca ccaaatggca gcgcggattc
+    33901 cgccgggcaa tcaatgtgca gggcagcgat caccacggca cgactgcgcg cgtgcgcgcg
+    33961 ggcctgcagg cgctcgatgt agcgatacct caaggctatc ccgcctacgt gctgcacaaa
+    34021 atggttcggg tcatgcgcgg cggcgaggag gtgaagctct ccaagcgcgc cggctcctac
+    34081 gtgacactgc gcgatctgat cgagtgggtg ggacgtgacg ccgtgcgttt cttcctggtg
+    34141 tcgcgcaagg ccgattcgga gttcgtcttc gacatcgacc tggcactggc gcaaagcgag
+    34201 gaaaaccccg tgtactatgt gcaatacgcc cacgcgcgag tatgcagcgt attccggcag
+    34261 ttgcaggaga aggggctgag tcatgagcga gacgtcggcg aagccaacgt cgcacgtctg
+    34321 accgagccgc atgagaaggc gctgatccga cgtctgacct attatcccga attgctggag
+    34381 gcagccgccc tggcgctgga gccgcatcag ctcgcccact atctgcgcga gctggcaggc
+    34441 gaccttcata cgtattacaa cgctcatacc ttcatcgtcg atgacctgca cctgcgcaac
+    34501 gcacgtctca atctcgtggc cgcaacccgg caagtactcg agaacggctt gcacctgctc
+    34561 ggcgtctcgg cgccggagag gatggaagga aagcggttgg cggttggcgg ttagcggttg
+    34621 gtcatgaatc aagcgaccca ggatcactcg cgcaaatccg cacctctgtt accaaccgca
+    34681 aaccgctaac cgccaaccgc ttccccatcc atggcccgcg attacaaaca caccaagaac
+    34741 cgctccgccg ggtccggtct gtccggtatg gcgggtttcg tggtgggact tgcattgggt
+    34801 ctgagcgtcg ccatggcggt gtatctgtac gatcgacgtc cggctgcacg ccttgcgcag
+    34861 tcctcagcgc ccatgacgaa cgagaaggcg cccgctgagg agaacaagcg cccgccgcag
+    34921 gatcccgatc cgcagttcga gttctacgac atgctgccga aattcgaagt cgtggtgccc
+    34981 gagcagggtg gcgaggcgcc cagcgagccg gcgagcgggc cggtgcagaa gcccggcgct
+    35041 tatatcttgc aggccggctc attccgcagc agcacggatg cggatcgcgt ccgcgctcga
+    35101 atcgccatgc agggcgtcga gtcgaagatt caatccgtga ccatcgacaa ggacacctgg
+    35161 catcgcgtgc gcatcgggcc gatcaccaat ctgcagaagt tggaagaaac gcgcagcaaa
+    35221 ttgcgcacgg cgaggattga ggcgttggtg attcggattg gagaatgatg aacgtgacgc
+    35281 agtgacggtg tgacgtcgcc cgaaccgtca cgacgtgcct tcgtcacccc gtcacgtcga
+    35341 cgctaatctt ctgccagctg cctgaaatcc acacccagcg atcgcagctt tcgatacagg
+    35401 tgcgtgcgct ccatgccgac gcgcttggcc aactggccga ccttgccatt gcacaagatc
+    35461 aactgctgct ggaggtaggc gcgttcgaaa tgttcgcgcg cttcgcgcag cggcagcgca
+    35521 agcaggtctt gtttgaccaa cggctcgttg gcgggtgtgt tggaagccag ctcgcgttcg
+    35581 atttcctcga gcttgatttc ttcctcgccg cccatgatga gcaggcgttg caccagattc
+    35641 ttcagctcgc ggacattgcc gggccacgga taattgcgca gacgattttg cgcggccacg
+    35701 ccgaagcgcc ggaacggcag gcgttgctca tccaccagcc tgtcgacgta gtgccgcaac
+    35761 aggtcgggga cgtcctgcga atactcgcgc agtggcggta cattcaaact gatcacattg
+    35821 aggcgcgaga gcagttcgcg ccgggcaccg ccgtccgcgt cgttggcagc cggtcgcgca
+    35881 gtcgccgaac cgatgatgcg cgcattcatc ttgacggccg tggcgccgcc gacgcgggtg
+    35941 aacgaatgcg tttccaacgc tgcgatcagc agtccctgca ctttggccga aagatcgtcc
+    36001 acgccattca cgaacaacac accgccggtg gcctgttcca acaatccggg gtgcacgccg
+    36061 ttggcatcct cggttccgtg taacgccgcg gcagcgcctt catcgctgat gccggaggct
+    36121 accaattgca cgaatggccc cgcagcgcgc gggctgagcg agtggatgta acgcgcgaat
+    36181 gcttcacggc cggtgcccgg ctcaccgacg atgagcaccg aggtctcgtg cggcgccagt
+    36241 tgctggacct gctcgcgcag ctgatgcatg aggcggctct tgcccaccgg cgcaatcaac
+    36301 gtgggcgaca gcgagcgatt ggcctgccgc ttgttgcgtc ccgaatcgag cgcccgctcc
+    36361 accgtacgca gtaacttggc gagcgacagc ggcttctcga cgaaatcgaa cgctcccagt
+    36421 cgcgtcgctt caacggcggt ctcgacggtg ccatgacccg acatcatcac caccggaccg
+    36481 agcgtccccg gtggctgcgc ccattcgcgc aacaacgtga tgccgtcggt atccggcatc
+    36541 cagatatcca ggagcaccag atcgggatcg tgctgtgcac gactggcgcg cgcctcattg
+    36601 gcgtccgcgg cgacgtcgac ctcgtagccc tcatccgcaa ggatctcctt gaggagtccg
+    36661 cggatctccg cctcgtcatc gactaccaga atgcgggctg cactcatgca agttctctcc
+    36721 cagccacctc tgtaccagag catcgatgca acgacgcggc actcgatctg cccatcgttc
+    36781 gatcagatgc tccttgcgaa tctcacagta tccgcctgtt ggcggtctct cgcggccgtg
+    36841 cgcgccgttc gcgaacggga ccgcccgtcc gagcggcggc ggtcactggc aactcgatcc
+    36901 ggacccgggc gccgcccccg ccatggttct ccgcttcgat cttgccaccg tgttcttcga
+    36961 cgattttctt cacaattgca agcccgagac cggtgccttt gggcttggtg gtgacataag
+    37021 gatcgaatac ctggccgacg acgtcggtgc ggaaccccgg tccgttgtcc tccaccacga
+    37081 tctctgccag ctcactctcg ccgcgattca ccagccgcgt cgcgatgcga atctccgcat
+    37141 tggcggcgcc ttccatggcc tccacggcat tggcaagcag attatggaga atctgccggg
+    37201 gatc
+//
