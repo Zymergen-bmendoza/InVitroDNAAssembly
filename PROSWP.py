@@ -37,7 +37,7 @@ class AutoRefactor:
 
     """Function opens the output stream to the file for building the factory order."""
     def output(self, out):
-        out_file_name = "myoutput.csv"
+        out_file_name = "SampleIO/myoutput.csv"
         f = open(out_file_name, 'w')
         for cluster in out:
             f.write(cluster)
@@ -74,7 +74,7 @@ class AutoRefactor:
 
         # And to import the promoter sequences:
         # Note: download sequences from LIMS and promoter strength as attribute later
-        y = open("LIMS_DNA_parts.csv")
+        y = open("SampleIO/LIMS_DNA_parts.csv")
         for line in y:
             prom = line[:-1].split(",")
             self.promoters[prom[0]] = prom[1]
