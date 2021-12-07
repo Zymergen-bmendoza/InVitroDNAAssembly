@@ -127,7 +127,7 @@ class AutoRefactor:
                 else:
                     switch_trigger = False
             # revcom-ing the back end sequence of the proswp and adding them to the output list
-            hom_rev = Seq(proswp_seq_revnoncom).reverse_complement() + hom_rev
+            hom_rev = hom_rev + Seq(proswp_seq_revnoncom).reverse_complement()
             output_list.append(("hom_rev", hom_rev))
             output_list.append(("hom_fwd", hom_fwd))
         return output_list

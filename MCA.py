@@ -3,6 +3,12 @@
 from sgRNA_Generator import sgRNAGenerator
 from Bio import SeqIO
 import os
+from Bio import pairwise2 as algi
+
+alignments = algi.align.globalxx("AGTAGACCCC","AGAGACCATTGGGG")
+print(algi.format_alignment(*alignments[0]))
+
+
 
 
 class BackBoneSwap:
@@ -55,7 +61,6 @@ class BackBoneSwap:
         self.guides_and_arms[cluster].append((homfwd, "fwd"))
 
 
-BB = BackBoneSwap()
 
 
 
